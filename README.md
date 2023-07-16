@@ -21,7 +21,7 @@
 
 En este proyecto, a modo de práctica, se crea una pantalla similar a la de una web académica, utilizando para ello REACT y minimizando al maximo, el uso de HTML.
 
-![image](../proyecto_clon_pagina_web/src/imagenes/capturaDePantalla.png)
+![image](./src/imagenes/capturaDePantalla.png)
 
 
 ### Acceso
